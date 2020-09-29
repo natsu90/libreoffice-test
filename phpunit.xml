@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php" stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Test">
+            <file>tests/LibreOfficeTest.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
