@@ -1,5 +1,7 @@
 # LibreOffice-Test
 
+[![Travis CI](https://travis-ci.com/natsu90/libreoffice-test.svg?branch=master)](https://travis-ci.com/natsu90/libreoffice-test)
+
 ## Installation
 
 ```bash
